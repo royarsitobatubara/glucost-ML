@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+dataset/
+test_model/
+train_model/
+.env
